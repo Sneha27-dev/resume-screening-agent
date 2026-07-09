@@ -1,0 +1,20 @@
+Karthik Iyer
+karthik.iyer@email.com | 9012345678
+
+Summary
+Recent graduate with strong academic ML projects and 6 months of
+internship experience.
+
+Skills
+Python, TensorFlow, Keras, numpy, pandas, machine learning, deep learning,
+computer vision
+
+Education
+Bachelor's in Computer Science, NIT Trichy
+
+Experience
+ML Intern, VisionAI Labs (Jan 2026 - Jun 2026)
+- Built an image classification model using TensorFlow and Keras.
+- Assisted senior engineers with data preprocessing pipelines.
+
+0.5 years of experience (internship).

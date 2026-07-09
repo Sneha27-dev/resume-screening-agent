@@ -1,0 +1,21 @@
+Priya Nair
+priya.nair@email.com | +91 91234 56789
+
+Summary
+Data Scientist with 3 years of experience in predictive modeling and data
+analysis, transitioning into ML engineering.
+
+Skills
+Python, pandas, numpy, scikit-learn, SQL, statistics, data analysis,
+machine learning, Tableau, Power BI
+
+Education
+Master's in Data Science, University of Hyderabad
+
+Experience
+Data Scientist, RetailAnalytics (2021 - Present)
+- Built demand forecasting models using scikit-learn.
+- Performed exploratory data analysis on large SQL datasets.
+- Presented findings to stakeholders using Tableau dashboards.
+
+3 years of experience in data science.

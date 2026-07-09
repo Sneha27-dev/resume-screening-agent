@@ -1,0 +1,20 @@
+Vikram Singh
+vikram.singh@email.com | 9871234560
+
+Summary
+Data Engineer with 5 years of experience building ETL pipelines and data
+infrastructure. Some exposure to ML pipelines.
+
+Skills
+Python, SQL, Spark, Airflow, Kafka, ETL, data pipeline, AWS, Docker,
+pandas
+
+Education
+Bachelor's in Computer Science, Anna University
+
+Experience
+Senior Data Engineer, CloudData Corp (2019 - Present)
+- Built large-scale ETL pipelines using Spark and Airflow.
+- Supported ML teams by productionizing feature pipelines.
+
+5 years of experience in data engineering.

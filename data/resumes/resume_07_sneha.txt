@@ -1,0 +1,20 @@
+Sneha Reddy
+sneha.reddy@email.com | +91 90909 80808
+
+Summary
+Machine Learning Engineer with 2 years of experience, strong Python and
+data analysis foundation, growing MLOps exposure.
+
+Skills
+Python, scikit-learn, pandas, numpy, SQL, machine learning, Docker,
+data analysis, AWS
+
+Education
+Bachelor's in Computer Science, VIT Vellore
+
+Experience
+ML Engineer, HealthAI (2023 - Present)
+- Built patient risk prediction models using scikit-learn.
+- Deployed models as REST APIs using Docker on AWS.
+
+2 years of experience in machine learning.

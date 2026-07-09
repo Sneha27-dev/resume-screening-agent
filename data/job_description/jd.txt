@@ -1,0 +1,33 @@
+Job Title: Machine Learning Engineer
+
+About the Role
+We are looking for a Machine Learning Engineer to join our AI Platform team.
+You will design, build, and deploy machine learning models that power our
+recommendation and personalization systems, working closely with data
+engineers and product managers.
+
+Minimum Requirements
+- 3+ years of experience in software engineering or machine learning
+- Strong proficiency in Python
+- Hands-on experience with machine learning frameworks such as PyTorch,
+  TensorFlow, or scikit-learn
+- Experience with data analysis using pandas and numpy
+- Familiarity with SQL and working with large datasets
+- Experience deploying models to production (Docker, REST APIs, or similar)
+
+Preferred Qualifications
+- Experience with NLP or large language models (LLMs)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Familiarity with MLOps practices, CI/CD, and Kubernetes
+- Master's degree in Computer Science, Data Science, or a related field
+- Experience with retrieval augmented generation (RAG) or prompt engineering
+
+Responsibilities
+- Build and maintain end-to-end ML pipelines from data ingestion to model
+  serving
+- Collaborate with cross-functional teams to translate business problems
+  into ML solutions
+- Monitor model performance in production and iterate based on data
+- Write clean, well-tested, production-grade code
+- Communicate findings and tradeoffs clearly to technical and
+  non-technical stakeholders

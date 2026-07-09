@@ -1,0 +1,25 @@
+Neha Kapoor
+neha.kapoor@email.com | +91 97012 34567
+
+Summary
+Machine Learning Engineer with 7 years of broad experience across ML
+engineering, MLOps, and cloud-native deployment, with recent LLM work.
+
+Skills
+Python, PyTorch, TensorFlow, scikit-learn, pandas, numpy, SQL, NLP,
+large language models, RAG, prompt engineering, AWS, Azure, Kubernetes,
+Docker, CI/CD, machine learning, deep learning
+
+Education
+Master's in Computer Science, IIT Delhi
+
+Experience
+Principal ML Engineer, CloudAI Corp (2019 - Present)
+- Architected an end-to-end MLOps platform on Kubernetes and AWS.
+- Led adoption of LLM-based RAG systems for internal knowledge search.
+
+ML Engineer, DataNova (2017 - 2019)
+- Built and deployed classification and forecasting models using
+  scikit-learn and TensorFlow.
+
+7 years of experience in machine learning engineering.

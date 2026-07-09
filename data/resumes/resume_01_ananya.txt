@@ -1,0 +1,25 @@
+Ananya Sharma
+ananya.sharma@email.com | +91 98765 43210
+
+Summary
+Machine Learning Engineer with 4 years of experience building and deploying
+production ML systems for recommendation and personalization.
+
+Skills
+Python, PyTorch, TensorFlow, scikit-learn, pandas, numpy, SQL, Docker,
+AWS, Kubernetes, CI/CD, NLP, RAG, prompt engineering
+
+Education
+Master's in Computer Science, IIT Bombay
+
+Experience
+Senior ML Engineer, TechCorp (2022 - Present)
+- Built and deployed recommendation models serving 5M+ users using PyTorch
+  and Docker on AWS.
+- Implemented an NLP-based search re-ranking pipeline using RAG techniques.
+
+ML Engineer, DataWorks (2020 - 2022)
+- Developed churn prediction models using scikit-learn and pandas.
+- Automated model deployment with CI/CD pipelines on Kubernetes.
+
+4 years of experience in machine learning and software engineering.

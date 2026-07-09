@@ -1,0 +1,19 @@
+Arjun Malhotra
+arjun.malhotra@email.com | 9998887776
+
+Summary
+Frontend developer with 4 years of experience in React and UI engineering.
+No machine learning background.
+
+Skills
+JavaScript, TypeScript, React, HTML, CSS, REST API, git, Agile, Scrum
+
+Education
+Bachelor's in Information Technology, Pune University
+
+Experience
+Frontend Engineer, WebWorks (2020 - Present)
+- Built responsive web applications using React and TypeScript.
+- Collaborated with backend teams via REST APIs.
+
+4 years of experience in frontend development.

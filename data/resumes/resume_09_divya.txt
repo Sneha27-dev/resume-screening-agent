@@ -1,0 +1,23 @@
+Divya Krishnan
+divya.krishnan@email.com | +91 93456 78901
+
+Summary
+Machine Learning Engineer with 3.5 years of experience in computer vision
+and deep learning, some cloud deployment experience.
+
+Skills
+Python, PyTorch, TensorFlow, computer vision, deep learning, numpy,
+pandas, SQL, Docker, GCP
+
+Education
+Master's in Computer Science, IIT Madras
+
+Experience
+ML Engineer, VisionTech (2022 - Present)
+- Developed computer vision models for defect detection using PyTorch.
+- Deployed inference services using Docker on GCP.
+
+Junior ML Engineer, StartupAI (2021 - 2022)
+- Built deep learning prototypes using TensorFlow.
+
+3.5 years of experience in machine learning engineering.

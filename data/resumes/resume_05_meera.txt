@@ -1,0 +1,23 @@
+Meera Pillai
+meera.pillai@email.com | +91 99887 66554
+
+Summary
+Machine Learning Engineer with 6 years of experience across NLP, LLM
+applications, and MLOps.
+
+Skills
+Python, PyTorch, transformers, NLP, large language models, RAG,
+prompt engineering, AWS, GCP, Docker, Kubernetes, CI/CD, SQL, pandas
+
+Education
+Master's in Artificial Intelligence, IISc Bangalore
+
+Experience
+Lead ML Engineer, GenAI Solutions (2021 - Present)
+- Designed and deployed LLM-powered RAG systems for enterprise search.
+- Led MLOps initiatives adopting Kubernetes and CI/CD across ML teams.
+
+ML Engineer, SearchTech (2018 - 2021)
+- Built NLP models for query understanding using PyTorch.
+
+6 years of experience in machine learning engineering.

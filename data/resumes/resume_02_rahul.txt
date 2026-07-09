@@ -1,0 +1,19 @@
+Rahul Verma
+rahul.verma@email.com | 9876543211
+
+Summary
+Backend software engineer with 5 years of experience, primarily in Java
+and distributed systems. Limited exposure to machine learning.
+
+Skills
+Java, Spring Boot, SQL, microservices, REST API, Docker, Kubernetes, git
+
+Education
+Bachelor's in Computer Science, Delhi University
+
+Experience
+Backend Engineer, FinServe Inc (2019 - Present)
+- Built microservices handling millions of financial transactions daily.
+- Managed CI/CD pipelines and Kubernetes deployments.
+
+5 years of experience in backend software engineering.
