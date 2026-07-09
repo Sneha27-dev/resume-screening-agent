@@ -123,7 +123,7 @@ resume-screening-agent/
 - Scikit-learn
 - Pandas
 - NumPy
-- PyPDF2
+- pdfplumber
 - python-docx
 - Pytest
 
